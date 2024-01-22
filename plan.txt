@@ -1,0 +1,14 @@
+Languages:
+ -	Python: build functionality (calculations, etc.)
+ - 	JavaScript
+
+Tools:
+ -	PDF parser (need to find one)
+
+Steps:
+ -	Get major courses and GPAs from unofficial transcript
+ -	Create calculations in Python
+ -	Create UI/UX
+
+Future Versions:
+ -	CUNYFirst client
